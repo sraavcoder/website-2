@@ -1,0 +1,41 @@
+.heading {
+  display: flex;
+  /*border:double rgb(0, 89, 255);*/
+  justify-content: space-evenly;
+  color: lightcoral;
+}
+.title {
+  display: flex;
+  margin-left: 500px;
+  /*justify-content: space-between;*/
+}
+.sub title {
+  margin-left: 500px;
+}
+.t {
+  margin-bottom: 500px;
+}
+/*.image1 {
+  float: left;
+  top: 400px;
+  position: absolute;
+}*/
+.image2 {
+  left: 1160px;
+  top: 430px;
+  position: absolute;
+}
+.image3 {
+  left: 80px;
+  top: 430px;
+  position: absolute;
+}
+.image4 {
+  margin-left: 650px;
+  margin-top: 250px;
+}
+.position {
+  margin-left: 850px;
+  top: 10px;
+  position: absolute;
+}
